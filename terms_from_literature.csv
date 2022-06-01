@@ -1,5 +1,383 @@
-﻿term,bib
-human eating,Edelstein2020.09.12.292391
-chewing,enzler2021psychoacoustic
-chewing,kumar2017brain
-chewing,Kumar2021motorbasis
+﻿term,bib,category_in_ref
+chewing,enzler2021psychoacoustic,misophonic trigger
+chewing,kumar2017brain,
+chewing,Kumar2021motorbasis,
+chewing gum,hansen2021sound,
+chewing gum,Edelstein2020.09.12.292391,human eating
+chewing gum,Jager2020misophonia,
+crunching chips,hansen2021sound,
+crunching chips,kumar2017brain,
+crunching chips,Kumar2021motorbasis,
+apple crunching,kumar2017brain,
+apple crunching,Kumar2021motorbasis,
+apple crunching,Edelstein2020.09.12.292391,
+eating salad,kumar2017brain,
+eating salad,Kumar2021motorbasis,
+eating salad,Edelstein2020.09.12.292391,
+eating sushi,Edelstein2020.09.12.292391,
+eating noodles,Edelstein2020.09.12.292391,
+eating cereal,Edelstein2020.09.12.292391,
+eating a peach,hansen2021sound,
+eating a grapefruit,schroder2019misophonia,
+eating a carrot,schroder2019misophonia,
+animal eating,Edelstein2020.09.12.292391,
+cow eating,Edelstein2020.09.12.292391,
+cat eating,Edelstein2020.09.12.292391,
+horse munching,Edelstein2020.09.12.292391,
+dog chewing bone,Edelstein2020.09.12.292391,
+dog eating wet food,Edelstein2020.09.12.292391,
+dog drinking water,hansen2021sound,
+blowing nose,enzler2021psychoacoustic,misophonic trigger
+cough,enzler2021psychoacoustic,misophonic trigger
+hard breathing,enzler2021psychoacoustic,misophonic trigger
+sniffing,enzler2021psychoacoustic,misophonic trigger
+snoring,enzler2021psychoacoustic,misophonic trigger
+vomit,enzler2021psychoacoustic,misophonic trigger
+wheezing,enzler2021psychoacoustic,misophonic trigger
+breath running,enzler2021psychoacoustic,misophonic trigger
+gargling,enzler2021psychoacoustic,misophonic trigger
+hard breathing,enzler2021psychoacoustic,misophonic trigger
+keyboard,enzler2021psychoacoustic,misophonic trigger
+pen clicking,enzler2021psychoacoustic,misophonic trigger
+slurping,enzler2021psychoacoustic,misophonic trigger
+swallowing,enzler2021psychoacoustic,misophonic trigger
+throat clearing,enzler2021psychoacoustic,misophonic trigger
+clapping,enzler2021psychoacoustic,unpleasant
+distorted guitar dissonance,enzler2021psychoacoustic,unpleasant
+fingernails on chalkboard,enzler2021psychoacoustic,unpleasant
+fork scratch plate,enzler2021psychoacoustic,unpleasant
+knife hit glass,enzler2021psychoacoustic,unpleasant
+scream,enzler2021psychoacoustic,unpleasant
+birds,enzler2021psychoacoustic,pleasant
+fountain,enzler2021psychoacoustic,pleasant
+harp,enzler2021psychoacoustic,pleasant
+lake,enzler2021psychoacoustic,pleasant
+laugh,enzler2021psychoacoustic,pleasant
+underwater,enzler2021psychoacoustic,pleasant
+eating,alekri2019suicidal,misophonic trigger
+chewing,alekri2019suicidal,misophonic trigger
+crunching,alekri2019suicidal,misophonic trigger
+high-pitched crunch,alekri2019suicidal,misophonic trigger
+chewing,bernstein2013brief,misophonic trigger
+swallowing,bernstein2013brief,misophonic trigger
+gulping,bernstein2013brief,misophonic trigger
+nail clipping,bernstein2013brief,misophonic trigger
+belching,bernstein2013brief,misophonic trigger
+hiccuping,bernstein2013brief,misophonic trigger
+whistling,bernstein2013brief,misophonic trigger
+gum popping,cavanna2015misophonia,misophonic trigger
+chewing,cavanna2015misophonia,misophonic trigger
+crunching,cavanna2015misophonia,misophonic trigger
+sniffling,cavanna2015misophonia,misophonic trigger
+breathing,cavanna2015misophonia,misophonic trigger
+pen clicking,cavanna2015misophonia,misophonic trigger
+clock ticking,cavanna2015misophonia,misophonic trigger
+whistling,cavanna2015misophonia,misophonic trigger
+lip smacking,cavanna2015misophonia,misophonic trigger
+finger tapping,cavanna2015misophonia,misophonic trigger
+foot tapping,cavanna2015misophonia,misophonic trigger
+train noise,cavanna2015misophonia,misophonic trigger
+airplane noise,cavanna2015misophonia,misophonic trigger
+distant engines,cavanna2015misophonia,misophonic trigger
+chewing,cecilione2021treating,misophonic trigger
+swallowing,cecilione2021treating,misophonic trigger
+lip smacking,cecilione2021treating,misophonic trigger
+breathing,cecilione2021treating,misophonic trigger
+speech sound /s/,cecilione2021treating,misophonic trigger
+speech sound /t/,cecilione2021treating,misophonic trigger
+speech sound /k/,cecilione2021treating,misophonic trigger
+nasal voices,cecilione2021treating,misophonic trigger
+crunching,claiborn2017misophonia,misophonic trigger
+lip smacking,claiborn2017misophonia,misophonic trigger
+slurping,claiborn2017misophonia,misophonic trigger
+tongue clicking,claiborn2017misophonia,misophonic trigger
+throat clearing,claiborn2017misophonia,misophonic trigger
+gasping,claiborn2017misophonia,misophonic trigger
+wheezing,claiborn2017misophonia,misophonic trigger
+sniffing,claiborn2017misophonia,misophonic trigger
+loud mouth sounds,claiborn2017misophonia,misophonic trigger
+keyboard clicking,claiborn2017misophonia,misophonic trigger
+pen clicking,claiborn2017misophonia,misophonic trigger
+pencil tapping,claiborn2017misophonia,misophonic trigger
+crinkling paper,claiborn2017misophonia,misophonic trigger
+nail clipping,claiborn2017misophonia,misophonic trigger
+foot tapping,claiborn2017misophonia,misophonic trigger
+stomping,claiborn2017misophonia,misophonic trigger
+squeaking shoes,claiborn2017misophonia,misophonic trigger
+feet shuffling,claiborn2017misophonia,misophonic trigger
+finger snapping,claiborn2017misophonia,misophonic trigger
+finger tapping,claiborn2017misophonia,misophonic trigger
+hands rubbing,claiborn2017misophonia,misophonic trigger
+speech sound /s/,claiborn2017misophonia,misophonic trigger
+speech sound /k/,claiborn2017misophonia,misophonic trigger
+speech sound /p/,claiborn2017misophonia,misophonic trigger
+clock ticking,claiborn2017misophonia,misophonic trigger
+copy machine,claiborn2017misophonia,misophonic trigger
+phone ringing,claiborn2017misophonia,misophonic trigger
+knuckle cracking,claiborn2017misophonia,misophonic trigger
+clicking,colucci2015case,misophonic trigger
+tapping,colucci2015case,misophonic trigger
+lip smacking,colucci2015case,misophonic trigger
+speech sound /s/,colucci2015case,misophonic trigger
+speech sound /t/,colucci2015case,misophonic trigger
+speech sound /ch/,colucci2015case,misophonic trigger
+speech sound /sh/,colucci2015case,misophonic trigger
+chewing,dover2021family,misophonic trigger
+crunching,dover2021family,misophonic trigger
+drinking,dover2021family,misophonic trigger
+chomping,dover2021family,misophonic trigger
+swallowing,dover2021family,misophonic trigger
+mouth noises,dover2021family,misophonic trigger
+nasal breathing,dozier2015etiology,misophonic trigger
+chewing,dozier2015etiology,misophonic trigger
+sneezing,dozier2015etiology,misophonic trigger
+mouth breathing,dozier2015etiology,misophonic trigger
+smacking lips,dozier2015etiology,misophonic trigger
+bird chirps,dozier2015etiology,misophonic trigger
+chewing,dozier2015treating,misophonic trigger
+utensils against dishes,dozier2015treating,misophonic trigger
+yawning,dozier2015treating,misophonic trigger
+chewing,johnson2013selective,misophonic trigger
+sniffing,johnson2013selective,misophonic trigger
+breathing,johnson2013selective,misophonic trigger
+tapping,johnson2013selective,misophonic trigger
+slurping,johnson2013selective,misophonic trigger
+lip smacking,johnson2013selective,misophonic trigger
+sucking teeth,johnson2013selective,misophonic trigger
+utensils against dishes,johnson2013selective,misophonic trigger
+shuffling feet,johnson2013selective,misophonic trigger
+loud breathing,johnson2013selective,misophonic trigger
+murmuring,johnson2013selective,misophonic trigger
+snoring,johnson2013selective,misophonic trigger
+styrofoam,johnson2013selective,misophonic trigger
+nails against scalp,johnson2013selective,misophonic trigger
+humming,johnson2013selective,misophonic trigger
+fly/mosquito buzzing,kilicc2021prevalence,misophonic trigger
+snoring,kilicc2021prevalence,misophonic trigger
+eating,kilicc2021prevalence,misophonic trigger
+chewing,kilicc2021prevalence,misophonic trigger
+lip-smacking,kilicc2021prevalence,misophonic trigger
+nose sniffing,kilicc2021prevalence,misophonic trigger
+throat clearing,kilicc2021prevalence,misophonic trigger
+slurping tea,kilicc2021prevalence,misophonic trigger
+slurping coffee,kilicc2021prevalence,misophonic trigger
+slurping soup,kilicc2021prevalence,misophonic trigger
+sucking teeth,kilicc2021prevalence,misophonic trigger
+dripping water,kilicc2021prevalence,misophonic trigger
+fork on plate,kilicc2021prevalence,misophonic trigger
+gum chewing,kilicc2021prevalence,misophonic trigger
+infant crying,kilicc2021prevalence,misophonic trigger
+squeaking floor,kilicc2021prevalence,misophonic trigger
+squeaking fabric,kilicc2021prevalence,misophonic trigger
+music through wall,kilicc2021prevalence,misophonic trigger
+television through wall,kilicc2021prevalence,misophonic trigger
+'um' speech pattern,kilicc2021prevalence,misophonic trigger
+'uh' speech pattern,kilicc2021prevalence,misophonic trigger
+'er' speech pattern,kilicc2021prevalence,misophonic trigger
+hum of fluorescent light,lewin2021transdiagnostic,misophonic trigger
+chewing,lewin2021transdiagnostic,misophonic trigger
+clock ticking,lewin2021transdiagnostic,misophonic trigger
+breathing,lewin2021transdiagnostic,misophonic trigger
+chewing,mcguire2015cognitive,misophonic trigger
+heavy breathing,mcguire2015cognitive,misophonic trigger
+sniffing,mcguire2015cognitive,misophonic trigger
+tapping,mcguire2015cognitive,misophonic trigger
+slurping,mcguire2015cognitive,misophonic trigger
+lip smacking,mcguire2015cognitive,misophonic trigger
+chewing,meltzer2014tinnitus,misophonic trigger
+eating,meltzer2014tinnitus,misophonic trigger
+breathing,meltzer2014tinnitus,misophonic trigger
+tapping,meltzer2014tinnitus,misophonic trigger
+clicking,meltzer2014tinnitus,misophonic trigger
+chewing,muller2018cognitive,misophonic trigger
+dishes,muller2018cognitive,misophonic trigger
+utensils,muller2018cognitive,misophonic trigger
+chair scraping against floor,muller2018cognitive,misophonic trigger
+crinkling paper,muller2018cognitive,misophonic trigger
+chewing,natalini2020misophonia,misophonic trigger
+crunching,natalini2020misophonia,misophonic trigger
+biting nails,natalini2020misophonia,misophonic trigger
+snoring,natalini2020misophonia,misophonic trigger
+pen clicking,natalini2020misophonia,misophonic trigger
+swallowing,natalini2020misophonia,misophonic trigger
+sneezing,natalini2020misophonia,misophonic trigger
+dogs barking,natalini2020misophonia,misophonic trigger
+cleaning teeth with toothpick,natalini2020misophonia,misophonic trigger
+kissing,natalini2020misophonia,misophonic trigger
+chewing,neal2013selective,misophonic trigger
+chewing,quek2018misophonia,misophonic trigger
+footsteps from neighbors,quek2018misophonia,misophonic trigger
+low-frequency bass sounds,quek2018misophonia,misophonic trigger
+high-pitch voices,quek2018misophonia,misophonic trigger
+pen clicking,reid2016intensive,misophonic trigger
+squeaky noises,reid2016intensive,misophonic trigger
+marker against white board,reid2016intensive,misophonic trigger
+throat noises,reid2016intensive,misophonic trigger
+crunchy food,rinaldi2021factor,misophonic trigger
+crispy snacks,rinaldi2021factor,misophonic trigger
+chewing,rinaldi2021factor,misophonic trigger
+lip smacking,rinaldi2021factor,misophonic trigger
+swallowing,rinaldi2021factor,misophonic trigger
+slurping,rinaldi2021factor,misophonic trigger
+wet mouth sounds,rinaldi2021factor,misophonic trigger
+eating apple,rinaldi2021factor,misophonic trigger
+eating yoghurt,rinaldi2021factor,misophonic trigger
+pen clicking,rinaldi2021factor,misophonic trigger
+foot tapping,rinaldi2021factor,misophonic trigger
+feet on floor,rinaldi2021factor,misophonic trigger
+repetitive barking,rinaldi2021factor,misophonic trigger
+tapping pen/pencil,rinaldi2021factor,misophonic trigger
+tapping finger,rinaldi2021factor,misophonic trigger
+typing on a computer,rinaldi2021factor,misophonic trigger
+rustling paper,rinaldi2021factor,misophonic trigger
+rustling plastic,rinaldi2021factor,misophonic trigger
+throat clearing,rinaldi2021factor,misophonic trigger
+hiccups,rinaldi2021factor,misophonic trigger
+humming,rinaldi2021factor,misophonic trigger
+breathing,rinaldi2021factor,misophonic trigger
+snorting,rinaldi2021factor,misophonic trigger
+nose sniffing,rinaldi2021factor,misophonic trigger
+snort when laughing,rinaldi2021factor,misophonic trigger
+coughing,rinaldi2021factor,misophonic trigger
+snoring,rinaldi2021factor,misophonic trigger
+sneezing,rinaldi2021factor,misophonic trigger
+burping,rinaldi2021factor,misophonic trigger
+clock ticking,rinaldi2021factor,misophonic trigger
+car engine,rinaldi2021factor,misophonic trigger
+refrigerator,rinaldi2021factor,misophonic trigger
+humming,rinaldi2021factor,misophonic trigger
+dishwashier,rinaldi2021factor,misophonic trigger
+washing machine,rinaldi2021factor,misophonic trigger
+dryer,rinaldi2021factor,misophonic trigger
+fan,rinaldi2021factor,misophonic trigger
+mouth smacking,sarigedik2021study,misophonic trigger
+eating,sarigedik2021study,misophonic trigger
+chewing,sarigedik2021study,misophonic trigger
+chewing gum,sarigedik2021study,misophonic trigger
+clock ticking,sarigedik2021study,misophonic trigger
+fork/knife/spoon on surfaces,sarigedik2021study,misophonic trigger
+nails against board,sarigedik2021study,misophonic trigger
+chalk against board,sarigedik2021study,misophonic trigger
+pen on paper,sarigedik2021study,misophonic trigger
+breathing,sarigedik2021study,misophonic trigger
+loud noises/shouting,sarigedik2021study,misophonic trigger
+squeak,sarigedik2021study,misophonic trigger
+door squeaking,sarigedik2021study,misophonic trigger
+water dripping,sarigedik2021study,misophonic trigger
+whisper,sarigedik2021study,misophonic trigger
+chewing,schneider2017case,misophonic trigger
+crunching,schneider2017case,misophonic trigger
+breathing,schneider2017case,misophonic trigger
+lip smacking,schneider2017case,misophonic trigger
+slurping,schneider2017case,misophonic trigger
+eating,schroder2017cognitive,misophonic trigger
+typing,schroder2017cognitive,misophonic trigger
+chewing,schroder2017cognitive,misophonic trigger
+eating,schroder2013misophonia,misophonic trigger
+lip smacking,schroder2013misophonia,misophonic trigger
+swallowing,schroder2013misophonia,misophonic trigger
+loud breathing,schroder2013misophonia,misophonic trigger
+nostril sounds,schroder2013misophonia,misophonic trigger
+coughing,schroder2013misophonia,misophonic trigger
+sneezing,schroder2013misophonia,misophonic trigger
+typing,schroder2013misophonia,misophonic trigger
+pen clicking,schroder2013misophonia,misophonic trigger
+nail clipping,schroder2013misophonia,misophonic trigger
+footsteps,schroder2013misophonia,misophonic trigger
+walking in high heels,schroder2013misophonia,misophonic trigger
+chewing,swedo2021consensus,misophonic trigger
+eating,swedo2021consensus,misophonic trigger
+smacking lips,swedo2021consensus,misophonic trigger
+slurping,swedo2021consensus,misophonic trigger
+coughing,swedo2021consensus,misophonic trigger
+throat clearing,swedo2021consensus,misophonic trigger
+swallowing,swedo2021consensus,misophonic trigger
+sniffing,swedo2021consensus,misophonic trigger
+breathing,swedo2021consensus,misophonic trigger
+pen clicking,swedo2021consensus,misophonic trigger
+keyboard typing,swedo2021consensus,misophonic trigger
+finger tapping,swedo2021consensus,misophonic trigger
+foot tapping,swedo2021consensus,misophonic trigger
+shuffling footsteps,swedo2021consensus,misophonic trigger
+clock ticking,swedo2021consensus,misophonic trigger
+chewing,taylor2017misophonia,misophonic trigger
+crunching,taylor2017misophonia,misophonic trigger
+slurping,taylor2017misophonia,misophonic trigger
+swallowing,taylor2017misophonia,misophonic trigger
+lip smacking,taylor2017misophonia,misophonic trigger
+sniffing,taylor2017misophonia,misophonic trigger
+throat clearing,taylor2017misophonia,misophonic trigger
+heavy breathing,taylor2017misophonia,misophonic trigger
+pen clicking,taylor2017misophonia,misophonic trigger
+dogs barking,taylor2017misophonia,misophonic trigger
+babies crying,taylor2017misophonia,misophonic trigger
+bus brakes,taylor2017misophonia,misophonic trigger
+utensils on dishes,taylor2017misophonia,misophonic trigger
+high pitch voice,taylor2017misophonia,misophonic trigger
+nail clipping,taylor2017misophonia,misophonic trigger
+footsteps,taylor2017misophonia,misophonic trigger
+speech sound /s/,tonarely2022applying,misophonic trigger
+speech sound /sh/,tonarely2022applying,misophonic trigger
+speech sound /ch/,tonarely2022applying,misophonic trigger
+tapping,tonarely2022applying,misophonic trigger
+clicking,tonarely2022applying,misophonic trigger
+fingernails touching each other,tonarely2022applying,misophonic trigger
+mouth smacking,tuncc2017extreme,misophonic trigger
+high pitched voice,webber2014pediatric,misophonic trigger
+low pitch male voice,wiese2021assessment,misophonic trigger
+eating,wiese2021assessment,misophonic trigger
+utensils,wiese2021assessment,misophonic trigger
+lip smacking,wiese2021assessment,misophonic trigger
+throat clearing,wiese2021assessment,misophonic trigger
+chewing,wu2014misophonia,misophonic trigger
+swallowing,wu2014misophonia,misophonic trigger
+slurping,wu2014misophonia,misophonic trigger
+pen on table,wu2014misophonia,misophonic trigger
+feet on floor,wu2014misophonia,misophonic trigger
+paper rustling,wu2014misophonia,misophonic trigger
+plasting rustling,wu2014misophonia,misophonic trigger
+sniffing,wu2014misophonia,misophonic trigger
+inhale,wu2014misophonia,misophonic trigger
+coughing,wu2014misophonia,misophonic trigger
+throat clearing,wu2014misophonia,misophonic trigger
+clock ticking,wu2014misophonia,misophonic trigger
+refrigerator humming,wu2014misophonia,misophonic trigger
+speech sound /k/,wu2014misophonia,misophonic trigger
+eating,vitoratou2021item,misophonic trigger
+teeth sucking,vitoratou2021item,misophonic trigger
+chewing,vitoratou2021item,misophonic trigger
+mouth open chewing,vitoratou2021item,misophonic trigger
+crunching,vitoratou2021item,misophonic trigger
+mushy foods,vitoratou2021item,misophonic trigger
+swallowing,vitoratou2021item,misophonic trigger
+lip smacking,vitoratou2021item,misophonic trigger
+slurping,vitoratou2021item,misophonic trigger
+breathing,vitoratou2021item,misophonic trigger
+loud breathing,vitoratou2021item,misophonic trigger
+unusual breathing,vitoratou2021item,misophonic trigger
+throat clearing,vitoratou2021item,misophonic trigger
+repetitive coughing,vitoratou2021item,misophonic trigger
+repetitive sniffing,vitoratou2021item,misophonic trigger
+hiccups,vitoratou2021item,misophonic trigger
+snoring,vitoratou2021item,misophonic trigger
+whistling sound,vitoratou2021item,misophonic trigger
+pen tapping,vitoratou2021item,misophonic trigger
+foot tapping,vitoratou2021item,misophonic trigger
+finger tapping,vitoratou2021item,misophonic trigger
+keyboard typing,vitoratou2021item,misophonic trigger
+rustling plastic,vitoratou2021item,misophonic trigger
+rustling paper,vitoratou2021item,misophonic trigger
+cutting nails,vitoratou2021item,misophonic trigger
+chewing gum,vitoratou2021item,misophonic trigger
+footsteps,vitoratou2021item,misophonic trigger
+cutlery noises,vitoratou2021item,misophonic trigger
+sneezing,vitoratou2021item,misophonic trigger
+kissing,vitoratou2021item,misophonic trigger
+joint cracking,vitoratou2021item,misophonic trigger
+muffled noises,vitoratou2021item,misophonic trigger
+baby crying,vitoratou2021item,misophonic trigger
+repetitive barking,vitoratou2021item,misophonic trigger
+car engine,vitoratou2021item,misophonic trigger
+clock ticking,vitoratou2021item,misophonic trigger
+humming object,vitoratou2021item,misophonic trigger
+bass sounds,vitoratou2021item,misophonic trigger
