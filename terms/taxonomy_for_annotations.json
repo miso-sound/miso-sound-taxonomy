@@ -1,0 +1,73 @@
+{
+    "sounds": {
+        "label": "Sounds",
+        "parents": []
+    },
+    "human": {
+        "label": "Human",
+        "parents": [
+            "sounds"
+        ]
+    },
+    "nature": {
+        "label": "Nature",
+        "parents": [
+            "sounds"
+        ]
+    },
+    "mechanical": {
+        "label": "Mechanical",
+        "parents": [
+            "sounds"
+        ]
+    },
+    "music": {
+        "label": "Music",
+        "parents": [
+            "sounds"
+        ]
+    },
+    "oral_nasal": {
+        "label": "Oral/nasal",
+        "parents": [
+            "human"
+        ]
+    },
+    "hands_arms": {
+        "label": "Hands/arms",
+        "parents": [
+            "human"
+        ]
+    },
+    "feet_legs": {
+        "label": "Feet/legs",
+        "parents": [
+            "human"
+        ]
+    },
+    "animal": {
+        "label": "Animal",
+        "parents": [
+            "nature"
+        ]
+    },
+    "nonanimal": {
+        "label": "Non-animal",
+        "parents": [
+            "nature"
+        ]
+    },
+    "humming": {
+        "label": "Humming",
+        "parents": [
+            "oral_nasal",
+            "music"
+        ]
+    },
+    "tapping": {
+        "label": "Tapping",
+        "parents": [
+            "feet_legs"
+        ]
+    }
+}
