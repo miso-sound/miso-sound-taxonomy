@@ -69,5 +69,39 @@
         "parents": [
             "feet_legs"
         ]
-    }
-}
+    },
+    "sipping_hot_liquid": {
+       "label": "sipping hot liquid",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "slurping": {
+       "label": "slurping",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "lip_smacks": {
+       "label": "lip smacks",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "chewing_gum": {
+       "label": "chewing gum",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "flipping_newspaper_pages": {
+       "label": "flipping newspaper pages",
+       "parents": [
+           "hands_arms"
+        ]
+    }, 
+    "typing": {
+       "label": "typing",
+       "parents": [
+           "hands_arms"
+        ]
