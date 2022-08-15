@@ -141,6 +141,12 @@
        "parents": [
            "recording artifact"
         ]
-    }
+    },
+    "talking": {
+       "label": "talking",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
 }
 
