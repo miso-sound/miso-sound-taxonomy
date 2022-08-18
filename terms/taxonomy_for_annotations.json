@@ -148,5 +148,11 @@
            "oral_nasal"
         ]
     },
+    "mouth_sounds_other": {
+       "label": "mouth sounds other",
+       "parents": [
+           "oral_nasal"
+        ]
+    }
 }
 
