@@ -153,6 +153,12 @@
        "parents": [
            "oral_nasal"
         ]
+    }, 
+    "sliding_ceramic": {
+       "label": "sliding ceramic",
+       "parents": [
+           "hands_arms"
+        ]
     }
 }
 
