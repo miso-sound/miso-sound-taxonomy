@@ -165,6 +165,12 @@
        "parents": [
            "oral_nasal"
         ]
+    },
+    "squishing": {
+       "label": "squishing",
+       "parents": [
+           "oral_nasal"
+        ]
     }
 }
 
