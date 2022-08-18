@@ -159,6 +159,12 @@
        "parents": [
            "hands_arms"
         ]
+    },
+    "exhaling": {
+       "label": "exhaling",
+       "parents": [
+           "oral_nasal"
+        ]
     }
 }
 
