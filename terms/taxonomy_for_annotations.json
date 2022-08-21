@@ -178,6 +178,12 @@
            "oral_nasal"
            "human"
         ]
+    },
+    "tearing_paper": {
+       "label": "tearing_paper",
+       "parents": [
+           "hands_arms"
+        ]
     }
 }
 
