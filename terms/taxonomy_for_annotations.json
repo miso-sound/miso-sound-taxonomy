@@ -180,7 +180,7 @@
         ]
     },
     "tearing_paper": {
-       "label": "tearing_paper",
+       "label": "tearing paper",
        "parents": [
            "hands_arms"
         ]
@@ -195,6 +195,12 @@
        "label": "swallowing",
        "parents": [
            "oral_nasal"
+        ]
+    },
+    "birds_chirping": {
+       "label": "birds chirping",
+       "parents": [
+           "animal"
         ]
     }
 }
