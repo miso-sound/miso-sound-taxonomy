@@ -171,6 +171,13 @@
        "parents": [
            "oral_nasal"
         ]
+    },
+    "whimpering": {
+       "label": "whimpering",
+       "parents": [
+           "oral_nasal"
+           "human"
+        ]
     }
 }
 
