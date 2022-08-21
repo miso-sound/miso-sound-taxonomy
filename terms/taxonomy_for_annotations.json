@@ -184,6 +184,12 @@
        "parents": [
            "hands_arms"
         ]
+    },
+    "footsteps": {
+       "label": "footsteps",
+       "parents": [
+           "feet_legs"
+        ]
     }
 }
 
