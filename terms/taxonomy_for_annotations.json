@@ -190,6 +190,12 @@
        "parents": [
            "feet_legs"
         ]
+    },
+    "swallowing": {
+       "label": "swallowing",
+       "parents": [
+           "oral_nasal"
+        ]
     }
 }
 
