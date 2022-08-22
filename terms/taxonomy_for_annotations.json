@@ -105,5 +105,103 @@
        "parents": [
            "hands_arms"
         ]
+    },
+    "basketball_dribbling": {
+       "label": "basketball dribbling",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "knife_cutting": {
+       "label": "knife cutting",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "human_breathing": {
+       "label": "human breathing",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "plastic_crumpling": {
+       "label": "plastic crumpling",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "water_drops": {
+       "label": "water drops",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "recording_artifact": {
+       "label": "recording artifact",
+       "parents": [
+           "recording artifact"
+        ]
+    },
+    "talking": {
+       "label": "talking",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "mouth_sounds_other": {
+       "label": "mouth sounds other",
+       "parents": [
+           "oral_nasal"
+        ]
+    }, 
+    "sliding_ceramic": {
+       "label": "sliding ceramic",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "exhaling": {
+       "label": "exhaling",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "squishing": {
+       "label": "squishing",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "whimpering": {
+       "label": "whimpering",
+       "parents": [
+           "oral_nasal"
+           "human"
+        ]
+    },
+    "tearing_paper": {
+       "label": "tearing paper",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "footsteps": {
+       "label": "footsteps",
+       "parents": [
+           "feet_legs"
+        ]
+    },
+    "swallowing": {
+       "label": "swallowing",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "birds_chirping": {
+       "label": "birds chirping",
+       "parents": [
+           "animal"
+        ]
     }
 }
+
