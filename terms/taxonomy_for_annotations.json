@@ -175,7 +175,7 @@
     "whimpering": {
        "label": "whimpering",
        "parents": [
-           "oral_nasal"
+           "oral_nasal",
            "human"
         ]
     },
