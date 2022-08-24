@@ -56,7 +56,7 @@ if __name__ == "__main__":
                 dot.edge(parent, key)
     # save PDF
     
-    dot.render(dot_filepath, view=False)
+    dot.render(str(dot_filepath), view=False)
     dot_filepath
     
     (graph,) = pydot.graph_from_dot_file(str(pathlib.Path(out_path, "taxonomy_for_annotations_plot")))
