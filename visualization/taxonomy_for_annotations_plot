@@ -1,0 +1,73 @@
+// Taxonomy
+digraph taxonomy {
+	graph [rankdir=LR]
+	sounds [label=Sounds shape=hexagon]
+	human [label=Human shape=ellipse]
+	nature [label=Nature shape=ellipse]
+	mechanical [label=Mechanical shape=ellipse]
+	music [label=Music shape=ellipse]
+	oral_nasal [label="Oral/nasal" shape=ellipse]
+	hands_arms [label="Hands/arms" shape=ellipse]
+	feet_legs [label="Feet/legs" shape=ellipse]
+	animal [label=Animal shape=ellipse]
+	nonanimal [label="Non-animal" shape=ellipse]
+	humming [label=Humming shape=box]
+	tapping [label=Tapping shape=box]
+	sipping_hot_liquid [label="sipping hot liquid" shape=box]
+	slurping [label=slurping shape=box]
+	lip_smacks [label="lip smacks" shape=box]
+	chewing_gum [label="chewing gum" shape=box]
+	flipping_newspaper_pages [label="flipping newspaper pages" shape=box]
+	typing [label=typing shape=box]
+	basketball_dribbling [label="basketball dribbling" shape=box]
+	knife_cutting [label="knife cutting" shape=box]
+	human_breathing [label="human breathing" shape=box]
+	plastic_crumpling [label="plastic crumpling" shape=box]
+	water_drops [label="water drops" shape=box]
+	recording_artifact [label="recording artifact" shape=box]
+	talking [label=talking shape=box]
+	mouth_sounds_other [label="mouth sounds other" shape=box]
+	sliding_ceramic [label="sliding ceramic" shape=box]
+	exhaling [label=exhaling shape=box]
+	squishing [label=squishing shape=box]
+	whimpering [label=whimpering shape=box]
+	tearing_paper [label="tearing paper" shape=box]
+	footsteps [label=footsteps shape=box]
+	swallowing [label=swallowing shape=box]
+	birds_chirping [label="birds chirping" shape=box]
+	sounds -> human
+	sounds -> nature
+	sounds -> mechanical
+	sounds -> music
+	human -> oral_nasal
+	human -> hands_arms
+	human -> feet_legs
+	nature -> animal
+	nature -> nonanimal
+	oral_nasal -> humming [style=dashed]
+	music -> humming [style=dashed]
+	feet_legs -> tapping
+	oral_nasal -> sipping_hot_liquid
+	oral_nasal -> slurping
+	oral_nasal -> lip_smacks
+	oral_nasal -> chewing_gum
+	hands_arms -> flipping_newspaper_pages
+	hands_arms -> typing
+	hands_arms -> basketball_dribbling
+	hands_arms -> knife_cutting
+	oral_nasal -> human_breathing
+	hands_arms -> plastic_crumpling
+	hands_arms -> water_drops
+	"recording artifact" -> recording_artifact
+	oral_nasal -> talking
+	oral_nasal -> mouth_sounds_other
+	hands_arms -> sliding_ceramic
+	oral_nasal -> exhaling
+	oral_nasal -> squishing
+	oral_nasal -> whimpering [style=dashed]
+	human -> whimpering [style=dashed]
+	hands_arms -> tearing_paper
+	feet_legs -> footsteps
+	oral_nasal -> swallowing
+	animal -> birds_chirping
+}
