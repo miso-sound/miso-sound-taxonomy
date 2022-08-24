@@ -8,9 +8,12 @@ import pydot
 if __name__ == "__main__":
 
     # set paths for .json file with taxonomy information and .png of taxonomy
+    repo_path = pathlib.Path(__file__).parents[1]
     data_dir = "terms"
-    data_path = pathlib.Path(pathlib.Path().resolve().parent, data_dir)
-    out_path = pathlib.Path().resolve()
+    out_dir = "visualization"
+    
+    data_path = pathlib.Path(repo_path, data_dir)
+    out_path = pathlib.Path(repo_path, out_dir)
     
     json_filename = "taxonomy_for_annotations.json"
     json_filepath = pathlib.Path(data_path, json_filename)
