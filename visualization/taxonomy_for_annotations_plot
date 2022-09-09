@@ -5,14 +5,12 @@ digraph taxonomy {
 	human [label=Human shape=ellipse]
 	nature [label=Nature shape=ellipse]
 	mechanical [label=Mechanical shape=ellipse]
-	music [label=Music shape=ellipse]
 	oral_nasal [label="Oral/nasal" shape=ellipse]
 	hands_arms [label="Hands/arms" shape=ellipse]
 	feet_legs [label="Feet/legs" shape=ellipse]
 	animal [label=Animal shape=ellipse]
 	nonanimal [label="Non-animal" shape=ellipse]
-	humming [label=Humming shape=box]
-	tapping [label=Tapping shape=box]
+	tapping [label=tapping shape=box]
 	sipping_hot_liquid [label="sipping hot liquid" shape=box]
 	slurping [label=slurping shape=box]
 	lip_smacks [label="lip smacks" shape=box]
@@ -38,14 +36,11 @@ digraph taxonomy {
 	sounds -> human
 	sounds -> nature
 	sounds -> mechanical
-	sounds -> music
 	human -> oral_nasal
 	human -> hands_arms
 	human -> feet_legs
 	nature -> animal
 	nature -> nonanimal
-	oral_nasal -> humming [style=dashed]
-	music -> humming [style=dashed]
 	feet_legs -> tapping
 	oral_nasal -> sipping_hot_liquid
 	oral_nasal -> slurping
@@ -57,8 +52,8 @@ digraph taxonomy {
 	hands_arms -> knife_cutting
 	oral_nasal -> human_breathing
 	hands_arms -> plastic_crumpling
-	hands_arms -> water_drops
-	"recording artifact" -> recording_artifact
+	"non-animal" -> water_drops
+	sounds -> recording_artifact
 	oral_nasal -> talking
 	oral_nasal -> mouth_sounds_other
 	hands_arms -> sliding_ceramic
