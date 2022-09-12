@@ -30,7 +30,7 @@
     "hands_arms": {
         "label": "Hands/arms",
         "parents": [
-            "nature"
+            "human"
         ]
     },
     "feet_legs": {
