@@ -30,7 +30,7 @@
     "hands_arms": {
         "label": "Hands/arms",
         "parents": [
-            "nature"
+            "human"
         ]
     },
     "feet_legs": {
@@ -120,7 +120,7 @@
     "water_drops": {
        "label": "water drops",
        "parents": [
-           "nature"
+           "nonanimal"
         ]
     },
     "recording_artifact": {
