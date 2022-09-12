@@ -162,8 +162,7 @@
     "whimpering": {
        "label": "whimpering",
        "parents": [
-           "oral_nasal",
-           "human"
+           "oral_nasal"
         ]
     },
     "tearing_paper": {
