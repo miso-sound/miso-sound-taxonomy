@@ -120,7 +120,7 @@
     "water_drops": {
        "label": "water drops",
        "parents": [
-           "nature"
+           "nonanimal"
         ]
     },
     "recording_artifact": {
