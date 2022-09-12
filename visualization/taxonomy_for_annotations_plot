@@ -37,7 +37,7 @@ digraph taxonomy {
 	sounds -> nature
 	sounds -> mechanical
 	human -> oral_nasal
-	human -> hands_arms
+	nature -> hands_arms
 	human -> feet_legs
 	nature -> animal
 	nature -> nonanimal
@@ -52,7 +52,7 @@ digraph taxonomy {
 	hands_arms -> knife_cutting
 	oral_nasal -> human_breathing
 	hands_arms -> plastic_crumpling
-	"non-animal" -> water_drops
+	nature -> water_drops
 	sounds -> recording_artifact
 	oral_nasal -> talking
 	oral_nasal -> mouth_sounds_other
