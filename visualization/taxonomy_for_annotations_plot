@@ -59,8 +59,7 @@ digraph taxonomy {
 	hands_arms -> sliding_ceramic
 	oral_nasal -> exhaling
 	oral_nasal -> squishing
-	oral_nasal -> whimpering [style=dashed]
-	human -> whimpering [style=dashed]
+	oral_nasal -> whimpering
 	hands_arms -> tearing_paper
 	feet_legs -> footsteps
 	oral_nasal -> swallowing
