@@ -40,13 +40,14 @@ if __name__ == "__main__":
     
     # draw taxonomy
     dot = graphviz.Digraph("taxonomy", comment="Taxonomy", graph_attr={"rankdir":"LR"})
+    name_plot_key = "name_for_plot"
     for key, value in data.items():
         if key == "sounds":
-            dot.node(key, value["label"], shape="hexagon")
+            dot.node(key, value[name_plot_key], shape="hexagon")
         elif key in cat_list:
-            dot.node(key, value["label"], shape="ellipse")
+            dot.node(key, value[name_plot_key], shape="ellipse")
         else:
-            dot.node(key, value["label"], shape="box")
+            dot.node(key, value[name_plot_key], shape="box")
     
     for key, value in data.items():
         for parent in value["parents"]:
