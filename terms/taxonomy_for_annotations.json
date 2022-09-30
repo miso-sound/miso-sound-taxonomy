@@ -188,6 +188,18 @@
        "parents": [
            "animal"
         ]
+    },
+    "clearing_throat": {
+       "name_for_plot": "clearing throat",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "coughing": {
+       "name_for_plot": "coughing",
+       "parents": [
+           "oral_nasal"
+        ]
     }
 }
 
