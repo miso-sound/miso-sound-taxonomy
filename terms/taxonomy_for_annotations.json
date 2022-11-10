@@ -21,6 +21,12 @@
             "sounds"
         ]
     },
+    "music": {
+        "name_for_plot": "Music",
+        "parents": [
+            "sounds"
+        ]
+    },
     "oral_nasal": {
         "name_for_plot": "Oral/nasal",
         "parents": [
