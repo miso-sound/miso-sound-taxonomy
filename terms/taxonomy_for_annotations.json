@@ -204,7 +204,7 @@
     "coffee_shop": {
        "name_for_plot": "coffee shop",
        "parents": [
-           "abience"
+           "ambience"
         ]
     },
     "harp": {
