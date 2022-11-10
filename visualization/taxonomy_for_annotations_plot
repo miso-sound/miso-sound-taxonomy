@@ -5,6 +5,7 @@ digraph taxonomy {
 	human [label=Human shape=ellipse]
 	nature [label=Nature shape=ellipse]
 	mechanical [label=Mechanical shape=ellipse]
+	music [label=Music shape=ellipse]
 	oral_nasal [label="Oral/nasal" shape=ellipse]
 	hands_arms [label="Hands/arms" shape=ellipse]
 	feet_legs [label="Feet/legs" shape=ellipse]
@@ -41,6 +42,7 @@ digraph taxonomy {
 	sounds -> human
 	sounds -> nature
 	sounds -> mechanical
+	sounds -> music
 	human -> oral_nasal
 	human -> hands_arms
 	human -> feet_legs
