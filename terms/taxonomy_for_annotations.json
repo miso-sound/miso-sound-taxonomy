@@ -210,7 +210,7 @@
     "harp": {
        "name_for_plot": "harp",
        "parents": [
-           "hands_arms"
+           "hands_arms",
            "music"
         ]
     },
