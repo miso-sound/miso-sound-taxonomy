@@ -200,6 +200,25 @@
        "parents": [
            "oral_nasal"
         ]
+    },
+    "coffee_shop": {
+       "name_for_plot": "coffee shop",
+       "parents": [
+           "ambience"
+        ]
+    },
+    "harp": {
+       "name_for_plot": "harp",
+       "parents": [
+           "hands_arms"
+           "music"
+        ]
+    },
+    "hairdryer": {
+       "name_for_plot": "hairdryer",
+       "parents": [
+           "hands_arms"
+        ]
     }
 }
 
