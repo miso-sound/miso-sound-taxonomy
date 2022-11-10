@@ -27,6 +27,12 @@
             "sounds"
         ]
     },
+    "ambience": {
+        "name_for_plot": "Ambience",
+        "parents": [
+            "sounds"
+        ]
+    },
     "oral_nasal": {
         "name_for_plot": "Oral/nasal",
         "parents": [
