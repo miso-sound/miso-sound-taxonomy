@@ -35,6 +35,9 @@ digraph taxonomy {
 	birds_chirping [label="birds chirping" shape=box]
 	clearing_throat [label="clearing throat" shape=box]
 	coughing [label=coughing shape=box]
+	coffee_shop [label="coffee shop" shape=box]
+	harp [label=harp shape=box]
+	hairdryer [label=hairdryer shape=box]
 	sounds -> human
 	sounds -> nature
 	sounds -> mechanical
@@ -68,4 +71,8 @@ digraph taxonomy {
 	animal -> birds_chirping
 	oral_nasal -> clearing_throat
 	oral_nasal -> coughing
+	ambience -> coffee_shop
+	hands_arms -> harp [style=dashed]
+	music -> harp [style=dashed]
+	hands_arms -> hairdryer
 }
