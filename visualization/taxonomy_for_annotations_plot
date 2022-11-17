@@ -40,6 +40,12 @@ digraph taxonomy {
 	coffee_shop [label="coffee shop" shape=box]
 	harp [label=harp shape=box]
 	hairdryer [label=hairdryer shape=box]
+	clicking [label=clicking shape=box]
+	singing [label=singing shape=box]
+	artifact [label=artifact shape=box]
+	laughing [label=laughing shape=box]
+	beeping [label=beeping shape=box]
+	drumming [label=drumming shape=box]
 	sounds -> human
 	sounds -> nature
 	sounds -> mechanical
@@ -79,4 +85,10 @@ digraph taxonomy {
 	hands_arms -> harp [style=dashed]
 	music -> harp [style=dashed]
 	hands_arms -> hairdryer
+	mechanical -> clicking
+	oral_nasal -> singing
+	sounds -> artifact
+	oral_nasal -> laughing
+	mechanical -> beeping
+	hands_arms -> drumming
 }
