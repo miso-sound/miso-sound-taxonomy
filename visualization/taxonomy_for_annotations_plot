@@ -5,6 +5,8 @@ digraph taxonomy {
 	human [label=Human shape=ellipse]
 	nature [label=Nature shape=ellipse]
 	mechanical [label=Mechanical shape=ellipse]
+	music [label=Music shape=ellipse]
+	ambience [label=Ambience shape=box]
 	oral_nasal [label="Oral/nasal" shape=ellipse]
 	hands_arms [label="Hands/arms" shape=ellipse]
 	feet_legs [label="Feet/legs" shape=ellipse]
@@ -35,9 +37,14 @@ digraph taxonomy {
 	birds_chirping [label="birds chirping" shape=box]
 	clearing_throat [label="clearing throat" shape=box]
 	coughing [label=coughing shape=box]
+	coffee_shop [label="coffee shop" shape=box]
+	harp [label=harp shape=box]
+	hairdryer [label=hairdryer shape=box]
 	sounds -> human
 	sounds -> nature
 	sounds -> mechanical
+	sounds -> music
+	sounds -> ambience
 	human -> oral_nasal
 	human -> hands_arms
 	human -> feet_legs
@@ -68,4 +75,8 @@ digraph taxonomy {
 	animal -> birds_chirping
 	oral_nasal -> clearing_throat
 	oral_nasal -> coughing
+	ambience -> coffee_shop
+	hands_arms -> harp [style=dashed]
+	music -> harp [style=dashed]
+	hands_arms -> hairdryer
 }
