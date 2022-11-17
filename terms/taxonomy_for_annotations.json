@@ -210,12 +210,48 @@
     "harp": {
        "name_for_plot": "harp",
        "parents": [
-           "hands_arms"
+           "hands_arms",
            "music"
         ]
     },
     "hairdryer": {
        "name_for_plot": "hairdryer",
+       "parents": [
+           "hands_arms"
+        ]
+    },
+    "clicking": {
+       "name_for_plot": "clicking",
+       "parents": [
+           "mechanical"
+        ]
+    },
+    "singing": {
+       "name_for_plot": "singing",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "artifact": {
+       "name_for_plot": "artifact",
+       "parents": [
+           "sounds"
+        ]
+    },
+    "laughing": {
+       "name_for_plot": "laughing",
+       "parents": [
+           "oral_nasal"
+        ]
+    },
+    "beeping": {
+       "name_for_plot": "beeping",
+       "parents": [
+           "mechanical"
+        ]
+    },
+    "drumming": {
+       "name_for_plot": "drumming",
        "parents": [
            "hands_arms"
         ]
