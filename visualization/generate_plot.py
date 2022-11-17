@@ -31,6 +31,7 @@ if __name__ == "__main__":
         "nature",
         "mechanical",
         "music",
+        "ambience",
         "oral_nasal",
         "hands_arms",
         "feet_legs",
